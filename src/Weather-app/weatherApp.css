@@ -5,8 +5,8 @@
     height: 90vh;
     margin: 2rem auto 1rem;
     border-radius: 0.6rem;
-    /* background-image: linear-gradient(180deg,#130754 0%,#3b2f80 100%); */
-    background: rgb(0,0,55,0.6) url("../clear-weather.jpg") no-repeat fixed center/cover;
+    background-image: linear-gradient(180deg,#130754 0%,#3b2f80 100%);
+/*     background: rgb(0,0,55,0.6) url("../clear-weather.jpg") no-repeat fixed center/cover; */
     background-blend-mode: darken;
 
     display: flex;
